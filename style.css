@@ -94,7 +94,7 @@ ul a : hover
 
 #donation
 {
-	background-image: url(dessert.jpg);
+	background-image: url(images/dessert.jpg);
 	height: 280px;
 }
 
@@ -106,7 +106,8 @@ ul a : hover
 
 #footer
 {
-	background-image: url(footer.jpg);
+	background-color: black;
+	color: white;
 	height: 400px;
 	font-family: "Arial Black", Gadget, sans-serif;
 }
