@@ -75,7 +75,7 @@ ul a : hover
 
 #service
 {
-	background-color: white;	
+	background-color: LightGoldenRodYellow;	
 	margin-top: 450px;
 }
 
@@ -87,7 +87,7 @@ ul a : hover
 
 .m, .b, .c
 {
-	background-color: white;
+	background-color: LightGoldenRodYellow;
 	height : 350px;
 	font-family: "Comic Sans MS", cursive, sans-serif
 }
@@ -100,7 +100,7 @@ ul a : hover
 
 #donation .grid_6
 {
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 	
 }
 
@@ -108,39 +108,38 @@ ul a : hover
 {
 	background-color: black;
 	color: white;
-	height: 400px;
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 #footer .grid_3 h2
 {
-	margin-left: 50px;
+	margin-left: 60px;
 }
 
-#footer .grid_9 img
+#footer .grid_6 img
 {
-	width: 50px;
-	height: 50px;
+	width: 40px;
+	height:40px;
 }
 
-#footer .grid_9 h1
+#footer .grid_6 h1
 {
-	margin-left: 480px;
+	margin-left: 200px;
 }
 
-#footer .grid_9 p
+#footer .grid_6 p
 {
- 	margin-top: 200px;
- 	margin-left: 100px;	
+ 	margin-top: 100px;
+ 	margin-left: 120px;	
 }
 
-#footer .grid_9 p ul li
+#footer .grid_6 p ul li
 {
 	display: inline;
 	padding: px;
 }
 
-#footer .grid_9 ul li
+#footer .grid_6 ul li
 {
 	display: inline;
 	float: right;
